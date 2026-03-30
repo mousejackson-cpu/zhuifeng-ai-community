@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+.venv/
+venv/
+venv310/
+.env
+.git/
+.gitignore
+certs/
+logs/
+node_modules/
+.DS_Store
