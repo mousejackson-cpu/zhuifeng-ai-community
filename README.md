@@ -1,5 +1,7 @@
 # ZhuiFeng AI Community Edition / 追风 AI 社区版
 
+![ZhuiFeng AI Community Edition](docs/cover.png)
+
 Build your own AI image workspace in minutes.  
 几分钟内搭建你自己的 AI 图像工作台。
 
@@ -115,26 +117,13 @@ This repository is a strong fit if you want to:
 
 ## Screenshots / 截图
 
-Add screenshots here for stronger conversion.  
-建议在这里补充截图，以提升转化效果。
-
-Recommended assets / 推荐素材：
-
-- `docs/cover.png`
-- `docs/workspace.png`
-- `docs/gallery.png`
-
-Example / 示例：
-
-```md
 ![Cover](docs/cover.png)
+
+### Workspace / 工作台
 ![Workspace](docs/workspace.png)
+
+### Gallery / 灵感画廊
 ![Gallery](docs/gallery.png)
-```
-
-A good screenshot usually improves trust and click-through much more than text alone.  
-一张好的截图，通常比单纯文字更能提升信任感和点击率。
-
 ---
 
 ## Quick start / 快速开始
