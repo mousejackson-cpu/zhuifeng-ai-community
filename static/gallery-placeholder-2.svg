@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" fill="none">
+<rect width="1200" height="900" rx="48" fill="#FDF2F8"/>
+<rect x="180" y="120" width="840" height="660" rx="42" fill="white"/>
+<circle cx="420" cy="390" r="180" fill="#FBCFE8"/>
+<rect x="660" y="250" width="220" height="26" rx="13" fill="#F9A8D4"/>
+<rect x="660" y="308" width="250" height="18" rx="9" fill="#FBCFE8"/>
+<rect x="660" y="348" width="190" height="18" rx="9" fill="#FBCFE8"/>
+<rect x="660" y="408" width="180" height="66" rx="22" fill="#EC4899"/>
+<text x="600" y="90" text-anchor="middle" font-family="Arial" font-size="40" font-weight="700" fill="#DB2777">Social Cover</text>
+</svg>
