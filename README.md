@@ -100,9 +100,10 @@ Before uploading to GitHub, confirm:
 4. `.env` is excluded.
 5. Upload, generated, temp, and data files are ignored except `.gitkeep`.
 
-## License recommendation
-See `LICENSE-CHOICE.md`.
-Recommended default for this project: **AGPL-3.0**.
+## License
+This repository is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0).
+If you modify this project and run it as a network service, you must also make the corresponding source code available under the same license.
+See the top-level `LICENSE` file for details.
 
 ## Notes
 - Video is optional and can stay disabled if you do not fill video credentials.
